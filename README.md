@@ -15,6 +15,11 @@ git clone https://github.com/Emily97/Socket-Chat.git
 ```
 cd socket-chat
 ```
+- Install Node.js
+- Next in the command line you must enter the following to install socket.io and express:
+```
+npm install
+```
 - Then you must run the server
 ```
 node server.js
